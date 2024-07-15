@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Burd3n
-- 🌱 I’m currently taking a degree on computer science
-- 💞️ I’m looking to trying to code my projects
+- 🌱 I’m currently taking a degree in computer science
 - 📫 How to reach me: yang_run1996@outlook.com
 
 <!---
