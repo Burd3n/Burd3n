@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Burd3n
-- 🌱 I’m currently taking a degree in computer science
 - 📫 How to reach me: yang_run1996@outlook.com
 
 <!---
